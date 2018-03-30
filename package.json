@@ -1,0 +1,32 @@
+{
+  "name": "sparrow-calendar",
+  "version": "1.0.0",
+  "description": "script for common calendar in web pages",
+  "main": "lib/calendar.js",
+  "module": "lib/calendar.js",
+  "files": [
+    "lib"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/747893812/koala.git"
+  },
+  "keywords": [
+    "popup"
+  ],
+  "author": "scrollbar-ww",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/747893812/koala/issues"
+  },
+  "homepage": "https://github.com/747893812/koala#readme",
+  "dependencies": {
+    "sparrow-device-query": "^1.0.0"
+  }
+}
