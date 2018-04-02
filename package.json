@@ -1,6 +1,6 @@
 {
   "name": "koala-calendar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "script for common calendar in web pages",
   "main": "lib/calendar.js",
   "module": "lib/calendar.js",
