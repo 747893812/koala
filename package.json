@@ -1,5 +1,5 @@
 {
-  "name": "sparrow-calendar",
+  "name": "koala-calendar",
   "version": "1.0.0",
   "description": "script for common calendar in web pages",
   "main": "lib/calendar.js",
